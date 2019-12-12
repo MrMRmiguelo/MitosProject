@@ -18,11 +18,11 @@
         tools:layout_editor_absoluteY="90dp">
 
         <EditText
-            android:id="@+id/username"
+            android:id="@+id/email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:hint="Username"
+            android:hint="Email"
             android:maxLines="1"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintTop_toTopOf="parent"
@@ -70,6 +70,7 @@
             tools:layout_conversion_absoluteWidth="206dp" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
 
 
 

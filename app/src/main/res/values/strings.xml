@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MitosProject</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="btnRegister2">Register2</string>
+    <string name="msg_name">Enter Full Name</string>
+    <string name="msg_email">Enter Valid Email</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="error_message_email">Email Already Exists</string>
+
 </resources>
